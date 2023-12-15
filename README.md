@@ -1,5 +1,9 @@
 # Berkeley_Machine_Learning_PAA_5.1
 
+Jupyter Notebook Link
+
+https://github.com/MattStull/Berekely_Machine_Learning_Module5_PAA5.1/blob/main/Module5_PAA_5.1.ipynb
+
 Practical Application Assignment 5.1 Summary of Findings
 
 ### Out of the entire dataset, 57% of the observations accepted a coupon.  Characteristics of higher acceptance rates were:
